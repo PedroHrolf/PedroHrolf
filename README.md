@@ -1,13 +1,14 @@
-## 👋🏼Olá, meu nome é Pedro Rollo
+## 👋🏼 Olá, meu nome é Pedro Rollo
 
 Sou profissional de suporte técnico em software, entusiasta de tecnologia e desenvolvimento de sistemas, atualmente estou focado no domínio da linguagem **Python**, com interesse crescente em automações, desenvolvimento web e aplicações com inteligência artificial.
 
 ## 💡 Possuo experiência com:
 - Treinamentos personalizados para uso de sistemas
-- Suporte técnico especializado e atendimento ao cliente
+- Atendimento ao cliente e suporte técnico especializado
 - Desenvolvimento e ajustes em projetos no **FP PRO** para esquadrias de alumínio e PVC
+- Suporte em Tecnologia da Informação
 
-## 🎯 Objetivos atuais:
+## 🎯 Objetivos:
 - Evoluir como desenvolvedor full stack   
 - Contribuir com projetos de código aberto  
 - Desenvolver soluções automatizadas com Python

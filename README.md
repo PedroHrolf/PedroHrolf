@@ -1,19 +1,21 @@
-## 👋🏼 Olá, meu nome é Pedro Rollo
+## 👋🏼 Hello, my name is Pedro Rollo
 
-Sou profissional de suporte técnico em software, entusiasta de tecnologia e desenvolvimento de sistemas, atualmente estou focado no domínio da linguagem **Python**, com interesse crescente em automações, desenvolvimento web e aplicações com inteligência artificial.
+I am a software technical support professional, technology and systems development enthusiast. Currently, I am focused on mastering the **Python** language, with growing interest in automation, data science, machine learning, and artificial intelligence applications.
 
-## 💡 Possuo experiência com:
-- Treinamentos personalizados para uso de sistemas
-- Atendimento ao cliente e suporte técnico especializado
-- Suporte em Tecnologia da Informação (TI)
 
-## 🎯 Objetivos:
-- Evoluir como desenvolvedor full stack   
-- Contribuir com projetos de código aberto  
-- Desenvolver soluções automatizadas com Python
+## 💡 I have experience with:
+* Customized system training
+* Customer service and specialized technical support
+* Information Technology (IT) support
+
+
+## 🎯 Objectives:
+* Grow as a data analyst
+* Contribute to open source projects
+* Develop automated solutions using Python
 
 ---
-### 🧠 Linguagens de programação em estudo:
+### 🧠 Programming languages under study:
 
 <div style="display: inline_block">
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -24,7 +26,7 @@ Sou profissional de suporte técnico em software, entusiasta de tecnologia e des
 </div>
 
 ---
-### 📫 Links para Contato:
+### 📫Contact Links:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrogustavosantosalmeidarollo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adspedro)

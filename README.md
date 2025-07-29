@@ -5,7 +5,6 @@ Sou profissional de suporte técnico em software, entusiasta de tecnologia e des
 ## 💡 Possuo experiência com:
 - Treinamentos personalizados para uso de sistemas
 - Atendimento ao cliente e suporte técnico especializado
-- Desenvolvimento e ajustes em projetos no **FP PRO** para esquadrias de alumínio e PVC
 - Suporte em Tecnologia da Informação
 
 ## 🎯 Objetivos:

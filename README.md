@@ -5,7 +5,7 @@ Sou profissional de suporte técnico em software, entusiasta de tecnologia e des
 ## 💡 Possuo experiência com:
 - Treinamentos personalizados para uso de sistemas
 - Atendimento ao cliente e suporte técnico especializado
-- Suporte em Tecnologia da Informação
+- Suporte em Tecnologia da Informação (TI)
 
 ## 🎯 Objetivos:
 - Evoluir como desenvolvedor full stack   

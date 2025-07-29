@@ -1,7 +1,6 @@
 ## 👋🏼 Hello, my name is Pedro Rollo
 
-I am a software technical support professional, technology and systems development enthusiast. Currently, I am focused on mastering the **Python** language, with growing interest in automation, data science, machine learning, and artificial intelligence applications.
-
+I am a software technical support professional and an enthusiast of technology and systems development. Currently, I’m focused on mastering the Python language, with a growing interest in automation, data science, machine learning, and artificial intelligence applications.
 
 ## 💡 I have experience with:
 * Customized system training
@@ -11,7 +10,7 @@ I am a software technical support professional, technology and systems developme
 
 ## 🎯 Objectives:
 * Grow as a data analyst
-* Contribute to open source projects
+* Contribute to open-source projects
 * Develop automated solutions using Python
 
 ---
